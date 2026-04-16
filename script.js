@@ -221,7 +221,7 @@ style.innerHTML=`@keyframes spin {0%{transform:translate(-50%,-50%) rotate(0deg)
 document.head.appendChild(style);
 
 const watermark = document.createElement("div");
-watermark.innerHTML = `<img src="https://thebengalee.com/wp-content/uploads/2025/12/Biostar_TV-removebg-preview-1.webp" style="width:70px;height:70px;">`;
+watermark.innerHTML = `<img src="" style="width:70px;height:70px;">`;
 Object.assign(watermark.style,{position:"absolute",right:"1px",bottom:"1px",zIndex:"9",opacity:"0.9",filter:"drop-shadow(0 6px 12px rgba(0,0,0,.8))",pointerEvents:"none"});
 wrap.appendChild(watermark);
 
