@@ -1,6 +1,6 @@
 const urls = [
   "https://raw.githubusercontent.com/mdarif2743/Cmcl-digital-mpd/refs/heads/main/README.m3u",
-    "https://raw.githubusercontent.com/biostartvworld/playlist/refs/heads/main/playlist.m3u",
+    "",
     "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/refs/heads/main/RoarZone.m3u"
 ];
 
